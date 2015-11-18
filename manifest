@@ -1,3 +1,5 @@
-name: Example
-description: An example plugin. Use this as the base for your own glorious plugins!
-api: 2
+name: CI
+description: Continous integration dashboard for Happening.im
+api: 3
+icon: good
+
